@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Code-With-Rohit-69&color=blue)
+
 # 💫 About Me:
 🔭 I’m currently working on improving my coding skills and building real-world applications  <br>👯 I’m looking to collaborate on open-source projects and innovative web applications  <br>🤝 I’m looking for help with enhancing my problem-solving strategies in DSA  <br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and exploring advanced MERN stack concepts  <br>💬 Ask me about Java, MERN stack development, and solving DSA problems  <br>⚡ Fun fact: I enjoy debugging complex errors more than writing the initial code 🚀  <br>
 
